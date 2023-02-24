@@ -1,3 +1,3 @@
 # ***** InformacionPersonal *****
 #
-# Programa en Java para la impresión de cadenas
+# Espero que esto ya sirva, como debe de :(((((((((((
